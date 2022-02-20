@@ -9,7 +9,7 @@ This sound module is compatible with DCC & DC train layouts.
 The hardware is released under OpenHardware principes, and the software under OpenSource principes.
 
  - Hardware (PCB): [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
- - Software (Firmware): commit in a few moment
+ - Software (Firmware): [GNU General Public License v3](https://www.gnu.org/licenses/)
 
 
 ## Current releases
