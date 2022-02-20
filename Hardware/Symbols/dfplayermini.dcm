@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DFPlayerMini
+D DFRobot DFR0299 - Mini MP3 player (MP3-TF-16P)
+K DFRobot DFPlayer Mini DFR0299 MP3-TF-16P
+F https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
+$ENDCMP
+#
+#End Doc Library
