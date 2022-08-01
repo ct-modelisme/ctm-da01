@@ -1,6 +1,6 @@
-# CT-DAD-02: Digital Accessory Decoder 02 - Sound module
+# CTM-DA01: Digital Sound Decoder 01
 
-The DAD-02 is a sound module for modelrailway projects.
+The CTM-DA01 is a sound module for modelrailway projects.
 This sound module is compatible with DCC & DC train layouts.
 
 
