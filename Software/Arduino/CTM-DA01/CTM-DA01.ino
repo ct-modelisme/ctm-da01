@@ -1,12 +1,10 @@
 /**
- * DCC Accessory Decoder 02 - Audio decoder (DAD 02.ino)
+ * CT-Modelisme (ct-modelisme.fr) - Decodeur Audio 01 (CTM-DA01.ino)
  * 
  * Requires NmraDcc library from mrrwa (https://github.com/mrrwa/NmraDcc)
  * Requires DFPlayerMini library from DFRobot (https://github.com/DFRobot/DFRobotDFPlayerMini)
  * 
  * 
- * Copyright (C) 2021 Cyrille TOULET
- *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -541,9 +539,9 @@ void setup() {
   Serial.println(((dcc.getCV(CV_MULTIFUNCTION_EXTENDED_ADDRESS_MSB) - 192) << 8) + dcc.getCV(CV_MULTIFUNCTION_EXTENDED_ADDRESS_LSB));
 
   Serial.println("\nInitializing completed!");
-  Serial.println("DCC accessory audio decoder - DAD-02");
-  Serial.println("Copyright (C) 2021 - Cyrille TOULET");
+  Serial.println("CT-Modelisme - Decodeur Audio 01");
   Serial.println("Firmware v1.1");
+  Serial.println("Please visit https://ct-modelisme.fr/");
   Serial.println("------\n");
 }
 
